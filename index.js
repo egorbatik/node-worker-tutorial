@@ -197,4 +197,4 @@ exampleAsyncBlockingCallThreadPostingMessage = () => {
 
 //exampleAsyncBlockingCallThreadWithEnvironment()
 
-exampleAsyncBlockingCallThreadPostingMessage();
+//exampleAsyncBlockingCallThreadPostingMessage();
