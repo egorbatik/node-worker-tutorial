@@ -181,6 +181,8 @@ exampleAsyncBlockingCallThreadPostingMessage = () => {
   console.log('Finish');
 }
 
+console.clear();
+
 //exampleAsIs();
 
 //exampleAsyncPromise();
